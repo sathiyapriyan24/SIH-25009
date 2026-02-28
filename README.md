@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:28.2.2026
+## Reference Number:25018768
+## Name:SATHIYA PRIYAN G
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
@@ -33,27 +33,62 @@ Smart Education
 </ul>
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Our solution, "Eco-Sphere: The Experiential Green App," is a gamified ecosystem designed to bridge the gap between classroom theory and real-world environmental action.
 
+How it Addresses the Problem
+Contextual Learning: Instead of generic global facts, the app uses geolocation to highlight local ecological issues (e.g., local air quality indices or regional water scarcity).
+
+Behavioral Economics: By applying "Nudge Theory," the app transforms overwhelming climate data into bite-sized daily tasks that are easy to complete but impactful when aggregated.
+
+Closing the Feedback Loop: Students see the immediate "digital" impact of their "physical" actions through a personal "Eco-Avatar" that thrives or wilts based on their sustainability score.
+
+Innovation and Uniqueness
+The "Phygital" Verification: Unlike standard quizzes, users must upload photo/video proof of their actions (e.g., a photo of their home waste segregation bins), which is verified via an AI-image recognition model.
+
+Community Ripple Effect: A "School Leaderboard" creates healthy competition between institutions, turning individual habits into a collective movement.
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+The platform will be built as a cross-platform mobile application to ensure accessibility across various socio-economic backgrounds in India.
+
+Technologies Used
+Frontend: Flutter or React Native (for seamless Android/iOS deployment).
+
+Backend: Node.js with a Firebase Realtime Database for instant leaderboard updates.
+
+AI/ML: TensorFlow Lite for on-device image classification (verifying tasks like waste segregation).
+
+Cloud Storage: Google Cloud Storage for user-submitted proof of "Green Acts."
+
+Methodology and Process
+Onboarding: Student creates an account linked to their school ID.
+
+The Quest Map: Interactive modules (e.g., "The Water Cycle," "Waste Management") are presented as levels in a game.
+
+The Action Phase: To clear a level, the student must complete a Real-World Task.
+
+Verification: AI verifies the task; the user earns Eco-Points and digital badges.
+
+Impact Dashboard: Data is aggregated to show the school’s total carbon footprint reduction.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility Analysis
+The project is highly feasible due to the high penetration of smartphones in Indian households and the existing mandate for Environmental Studies (EVS) in the national curriculum.
 
+Challenges & Risks
+Validation Fraud: Students might upload fake or stock images to gain points.
+
+Strategy: Use AI metadata checks (EXIF data) to ensure photos are taken in real-time and are unique.
+
+Engagement Drop-off: Gamification can lose its charm over time.
+
+Strategy: Seasonal "Eco-Leagues" and rewards like certificates from local government bodies or NGOs.
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Social: Builds a sense of community and civic duty among youth. It encourages students to influence their parents’ consumption habits.
 
+Environmental: Direct reduction in local waste and increase in urban greenery through student-led initiatives.
+
+Economic: Long-term savings for municipalities as citizens become more efficient with water and waste management.
+
+Educational: Provides schools with a turn-key solution to fulfill the "Action Research" requirements of the CBSE/ICSE curricula.
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1.Source: Prezi https://share.google/WbouK7DIwCxEMN6r5
+2.Gamified Environmental Education Platforms | PDF | Sustainability | Environmental Social Science https://share.google/hatJyH9gKEdy73xDr
